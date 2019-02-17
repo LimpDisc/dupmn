@@ -1,0 +1,7 @@
+COIN_NAME="MANO"
+COIN_PATH="/usr/local/bin/"
+COIN_DAEMON="manod"
+COIN_CLI="mano-cli"
+COIN_FOLDER="/root/.mano"
+COIN_CONFIG="mano.conf"
+COIN_SERVICE="mano.service"
