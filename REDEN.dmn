@@ -1,7 +1,0 @@
-COIN_NAME="reden"
-COIN_PATH="/root/RedenMasternodeSetup/Reden-v1.0-Ubuntu16.04/"
-COIN_DAEMON="redend"
-COIN_CLI="reden-cli"
-COIN_FOLDER="/root/.redencore"
-COIN_CONFIG="reden.conf"
-COIN_SERVICE="reden.service"
